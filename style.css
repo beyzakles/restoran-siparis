@@ -1,0 +1,25 @@
+    
+    body {
+        background-color: #fde8cd;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h1, h2 {
+        color: #440a67;
+
+    }
+    h3,h4 {
+        color: #93329e;
+
+    }
+    hr{
+        border-width: 0px;
+        width: 5%;
+        border-color: dimgray;
+        border-width: 5px;  
+        border-style: dotted none none;
+    }
+
+    .beyzafoto{
+        border-radius: 100%;
+    }
+
